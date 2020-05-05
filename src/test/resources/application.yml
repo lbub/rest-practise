@@ -1,0 +1,7 @@
+domainUrl: "https://api.github.com"
+username: testUser
+password: testPassword
+repo:
+  summaryRepoUrl: "/orgs/octokit/repos"
+  detailedRepoUrl: "/repos/octokit/octokit.rb"
+
